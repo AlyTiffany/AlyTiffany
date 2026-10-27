@@ -13,6 +13,24 @@ This portfolio showcases technical projects, labs, and investigations that refle
 
 My goal is to continue developing my technical expertise, take on new challenges, and contribute to reliable, secure, and efficient IT environments.
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/CompTIA-A%2B%20220--1101-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-C8102E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/EC--Council-CSCU-C8102E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-CCNA%20LAN%20Switching%20%26%20Wireless-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-CCNA%20Network%20Fundamentals-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+### Cybersecurity Training & Badges
+<div>
+<img src="https://img.shields.io/badge/BCIT-Development%20Security-003C71?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/BCIT-Ethical%20Hacking-003C71?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/BCIT-Network%20Defense%20Essentials-003C71?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%201-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%202-4B0082?style=for-the-badge&logoColor=white" />
+</div>
+
 ## Technical Skills
 
 ### Cybersecurity
@@ -82,22 +100,4 @@ My goal is to continue developing my technical expertise, take on new challenges
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Graylog-FF3633?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/CompTIA-A%2B%20220--1101-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-C8102E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/EC--Council-CSCU-C8102E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-CCNA%20LAN%20Switching%20%26%20Wireless-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Network%20Fundamentals-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-### Cybersecurity Training & Badges
-<div>
-<img src="https://img.shields.io/badge/BCIT-Development%20Security-003C71?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BCIT-Ethical%20Hacking-003C71?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/BCIT-Network%20Defense%20Essentials-003C71?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%201-4B0082?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%202-4B0082?style=for-the-badge&logoColor=white" />
 </div>
