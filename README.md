@@ -86,8 +86,6 @@ My goal is to continue developing my technical expertise, take on new challenges
 
 ## Certifications
 <div>
-## Certifications
-
 <img src="https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-C8102E?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CSCU-C8102E?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-CCNA%20LAN%20Switching%20%26%20Wireless-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
