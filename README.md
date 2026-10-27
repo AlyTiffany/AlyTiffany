@@ -11,7 +11,7 @@ This portfolio showcases technical projects, labs, and investigations that refle
 
 ## Objective
 
-I'm interested in opportunities across IT, including systems administration, networking, cloud technologies, and cybersecurity. My goal is to continue developing my technical expertise, take on new challenges, and contribute to reliable, secure, and efficient IT environments.
+My goal is to continue developing my technical expertise, take on new challenges, and contribute to reliable, secure, and efficient IT environments.
 
 ## Skills
 
