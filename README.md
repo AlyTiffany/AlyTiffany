@@ -93,3 +93,8 @@ My goal is to continue developing my technical expertise, take on new challenges
 <img src="https://img.shields.io/badge/Cisco-CCNA%20Network%20Fundamentals-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
+### Cybersecurity Training & Badges
+<div>
+<img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%201-4B0082?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%202-4B0082?style=for-the-badge&logoColor=white" />
+</div>
