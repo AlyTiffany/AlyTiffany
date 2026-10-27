@@ -1,14 +1,18 @@
 # Hello, I'm Aly
-WIP
 <a href="https://www.linkedin.com/in/a-g-76615533/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a cybersecurity professional with a passion for threat detection, incident response, and continuous learning. After transitioning into IT and earning my Bachelor's degree in Cybersecurity, I began building hands-on experience through both professional work and home lab projects. I enjoy investigating security incidents, analyzing logs, and understanding how attackers operate so I can better defend against them.
+## About Me
 
-This repository showcases the labs, investigations, and projects I've completed while developing my skills in cybersecurity. Each project reflects practical experience using industry tools and methodologies rather than simply completing coursework.
+I'm an IT professional with a Bachelor's degree in Cybersecurity and hands-on experience in systems administration, networking, technical support, and information security. My background spans enterprise IT environments, cloud technologies, troubleshooting, and cybersecurity operations.
+
+I enjoy solving technical problems, exploring new technologies, and understanding how systems work together. Whether it's troubleshooting infrastructure, investigating security incidents, or building solutions in my home lab, I'm always looking to expand my knowledge and improve my technical skills.
+
+This portfolio showcases technical projects, labs, and investigations that reflect my practical experience and continued professional development across IT and cybersecurity.
 
 ## Objective
 
-I'm currently seeking opportunities as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my analytical mindset, continue developing my incident response and threat detection skills, and contribute to protecting organizational assets. My long-term goal is to grow into a well-rounded blue team professional with experience across detection engineering, incident response, and security operations.
+I'm interested in opportunities across IT, including systems administration, networking, cloud technologies, and cybersecurity. My goal is to continue developing my technical expertise, take on new challenges, and contribute to reliable, secure, and efficient IT environments.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
