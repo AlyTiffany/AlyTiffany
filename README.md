@@ -13,18 +13,56 @@ This portfolio showcases technical projects, labs, and investigations that refle
 
 My goal is to continue developing my technical expertise, take on new challenges, and contribute to reliable, secure, and efficient IT environments.
 
-## Skills
+## Technical Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+### Cybersecurity
+- Incident Response & Investigation
+- Vulnerability Assessment & Remediation
+- Security Auditing & Risk Assessment
+- Threat Analysis & Security Monitoring
+- Security Awareness Training
+- Security Policies & Compliance
+- Cloud Security Administration
 
-## Tools
+### Systems Administration
+- Active Directory & Microsoft Entra ID
+- Microsoft 365 Administration
+- Identity & Access Management (IAM)
+- Multi-Factor Authentication (MFA)
+- User Provisioning & Access Controls
+- System Configuration & Deployment
+- Hardware & Software Maintenance
+
+### Networking
+- TCP/IP, LAN/WAN
+- Network Troubleshooting & Diagnostics
+- Network Infrastructure Support
+- Network Equipment Configuration
+- Network Security
+- Network Documentation
+
+### Cloud & Enterprise Technologies
+- Microsoft 365 (Teams, SharePoint, OneDrive)
+- Microsoft Entra ID
+- Cloud-Based Security Solutions
+- Enterprise Resource Planning (ERP) Systems
+
+### IT Operations & Technical Support
+- Hardware & Software Troubleshooting
+- System Imaging & Deployment
+- Tier 1 & Tier 2 Technical Support
+- High-Availability Systems Support
+- Remote Troubleshooting
+- IT Infrastructure Maintenance
+- Technical Documentation
+
+### Technical Leadership & Communication
+- Technical Training & Mentorship
+- Cybersecurity Awareness Education
+- Workshop & Tabletop Exercise Facilitation
+- Technical Documentation & Knowledge Base Development
+- Cross-Functional Collaboration
+- Process Improvement
 
 ### Network
 <div>
