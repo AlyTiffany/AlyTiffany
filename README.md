@@ -86,10 +86,16 @@ My goal is to continue developing my technical expertise, take on new challenges
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+## Certifications
+
+<img src="https://img.shields.io/badge/CompTIA-A%2B%20220--1101-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EC--Council-Digital%20Forensics%20Essentials-C8102E?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EC--Council-CSCU-C8102E?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-CCNA%20LAN%20Switching%20%26%20Wireless-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-CCNA%20Network%20Fundamentals-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
