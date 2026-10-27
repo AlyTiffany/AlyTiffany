@@ -11,8 +11,6 @@ This repository showcases the labs, investigations, and projects I've completed 
 I'm currently seeking opportunities as a Security Operations Center (SOC) Tier 1 Analyst, where I can apply my analytical mindset, continue developing my incident response and threat detection skills, and contribute to protecting organizational assets. My long-term goal is to grow into a well-rounded blue team professional with experience across detection engineering, incident response, and security operations.
 ## Skills
 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -23,7 +21,6 @@ I'm currently seeking opportunities as a Security Operations Center (SOC) Tier 1
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +43,6 @@ I'm currently seeking opportunities as a Security Operations Center (SOC) Tier 1
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
