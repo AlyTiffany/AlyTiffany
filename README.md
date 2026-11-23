@@ -29,7 +29,7 @@ My goal is to continue developing my technical expertise, take on new challenges
   <img src="https://img.shields.io/badge/BCIT-Development%20Security-003C71?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/BCIT-Ethical%20Hacking-003C71?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/BCIT-Network%20Defense%20Essentials-003C71?style=for-the-badge&logoColor=white" />
-
+  <a href="https://kc7cyber.com/badges/earned/68450">
   <img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%201-4B0082?style=for-the-badge&logoColor=white" />
   <a href="https://kc7cyber.com/badges/earned/73337">
   <img src="https://img.shields.io/badge/KC7%20Cyber-Security%20Analyst%202-4B0082?style=for-the-badge&logoColor=white" />
